@@ -1,1 +1,3 @@
-# 004-JS
+# 004-JS ELEKS
+
+Solution for homework
