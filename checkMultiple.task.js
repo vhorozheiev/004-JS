@@ -1,3 +1,6 @@
+/* Write a JS program check if a given positive 
+number is a multiple of 3 or a multiple of 7 */
+
 let number = +prompt("Please, enter a first number: ", 3);
 
 function checkMultiple(number) {

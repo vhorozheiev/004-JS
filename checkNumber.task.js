@@ -1,3 +1,6 @@
+/* Write a JS program to check 
+a given integer is bigger than 100 */
+
 let num = +prompt("Please, enter an integer", 10);
 
 function checkNumber(num) {
