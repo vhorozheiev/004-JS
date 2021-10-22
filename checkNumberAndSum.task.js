@@ -3,8 +3,8 @@ Write a JS program to check two given numbers and print true
 if one of the number is 50 or if their sum is 50
 */
 
-let firstNumber = +prompt("Please, enter a first number: ", 10);
-let secondNumber = +prompt("Please, enter a second number: ", 12);
+let firstNumber = 10;
+let secondNumber = 40;
 
 
 function checker(firstNumber, secondNumber) {
